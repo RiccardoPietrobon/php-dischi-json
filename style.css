@@ -1,0 +1,14 @@
+header {
+    height: 15vh;
+    background-color: #06131f;
+}
+
+.box-img img {
+    height: 10vh;
+    padding-top: 10px;
+}
+
+main {
+    height: 85vh;
+    background-color: #1d2d3c;
+}
